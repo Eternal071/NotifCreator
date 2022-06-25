@@ -28,6 +28,4 @@ notif.title = tprompt
 notif.icon = iprompt
 notif.message = mprompt
 
-print("Note: Go to ")
-
 notification.send()
