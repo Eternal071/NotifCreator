@@ -8,7 +8,6 @@ import json
 
 notif = Notify()
 
-print("Type 'help' for more information. - Press enter to skip.")
 time.sleep(0.5)
 
 h = input("> ")
