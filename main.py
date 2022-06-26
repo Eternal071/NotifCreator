@@ -10,8 +10,6 @@ notif = Notify()
 
 time.sleep(0.5)
 
-h = input("> ")
-
 print("What would you like the title to be?")
 
 tprompt = input("> ")
