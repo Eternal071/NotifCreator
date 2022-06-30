@@ -2,6 +2,7 @@ import os
 
 os.system("pip install notify-py")
 
+import notifypy
 from notifypy import Notify
 import time
 import json
